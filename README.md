@@ -10,7 +10,6 @@ Este repositório contém o código fonte de um site em desenvolvimento para uma
 - **logout.php**
 - **navbar.php**
 - **style.css**
-- **teste.py**
 - **Classes/**
   - **Cliente.php**
   - **Conexao.php**
