@@ -39,4 +39,3 @@ Este repositório contém o código fonte de um site em desenvolvimento para uma
 
 Este é um projeto em andamento, com funcionalidades de cadastro, edição, exclusão e visualização de clientes, orçamentos e serviços. A estrutura do projeto é organizada em diferentes diretórios para manter o código fonte de forma modular e fácil de entender.
 
-Além disso, o repositório inclui um arquivo Python chamado `teste.py`, que lista a estrutura do projeto quando executado. Isso é útil para obter uma visã
