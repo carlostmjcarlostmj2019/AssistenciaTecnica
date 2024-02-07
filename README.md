@@ -2,6 +2,8 @@
 
 Este repositório contém o código fonte de um site em desenvolvimento para uma assistência técnica. Abaixo está a estrutura do projeto:
 
+- **index.php**
+- **login.php**
 - **cadastro.php**
 - **Classes/**
   - **Cliente.php**
